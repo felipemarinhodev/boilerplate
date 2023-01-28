@@ -1961,21 +1961,21 @@
     regenerator-runtime "^0.13.7"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-interactions@^6.5.15":
-  version "6.5.15"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-interactions/-/addon-interactions-6.5.15.tgz#d176a47fa45bbc41cd9ecd4f672bdd19af49bbe5"
-  integrity sha512-9mDhkKJeWPvfrSBvuE5zn3DAKTXw37ZT21jkQzIt+dUEu0X3jCLY1dWel3Rbr9JI/PLnUnANDHOY/YtFUfrK9Q==
+"@storybook/addon-interactions@^6.5.16":
+  version "6.5.16"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-interactions/-/addon-interactions-6.5.16.tgz#2855fe946c9d8595c3486ae696f1d99e7fca582b"
+  integrity sha512-DdTtyp3DgB/SpbM1GQgMnuSEBCkadxmj1mUcPk+Wp2iY+fDwsuoRDkr1H9Oe7IvlBKe7ciR79LEjoaABXNdw4w==
   dependencies:
     "@devtools-ds/object-inspector" "^1.1.2"
-    "@storybook/addons" "6.5.15"
-    "@storybook/api" "6.5.15"
-    "@storybook/client-logger" "6.5.15"
-    "@storybook/components" "6.5.15"
-    "@storybook/core-common" "6.5.15"
-    "@storybook/core-events" "6.5.15"
+    "@storybook/addons" "6.5.16"
+    "@storybook/api" "6.5.16"
+    "@storybook/client-logger" "6.5.16"
+    "@storybook/components" "6.5.16"
+    "@storybook/core-common" "6.5.16"
+    "@storybook/core-events" "6.5.16"
     "@storybook/csf" "0.0.2--canary.4566f4d.1"
-    "@storybook/instrumenter" "6.5.15"
-    "@storybook/theming" "6.5.15"
+    "@storybook/instrumenter" "6.5.16"
+    "@storybook/theming" "6.5.16"
     core-js "^3.8.2"
     global "^4.4.0"
     jest-mock "^27.0.6"
@@ -2633,19 +2633,6 @@
   dependencies:
     lodash "^4.17.15"
 
-"@storybook/docs-tools@6.5.15":
-  version "6.5.15"
-  resolved "https://registry.yarnpkg.com/@storybook/docs-tools/-/docs-tools-6.5.15.tgz#c9a3954719c45c3748abd6aaa735e33f5c961912"
-  integrity sha512-8w78NFOtlJGuIa9vPPsr87J9iQUGmLFh7CrMS2+t9LxW+0oH5MZ8QqPQUHNuTuKsYN3r+QAmmi2pj0auZmCoKA==
-  dependencies:
-    "@babel/core" "^7.12.10"
-    "@storybook/csf" "0.0.2--canary.4566f4d.1"
-    "@storybook/store" "6.5.15"
-    core-js "^3.8.2"
-    doctrine "^3.0.0"
-    lodash "^4.17.21"
-    regenerator-runtime "^0.13.7"
-
 "@storybook/docs-tools@6.5.16":
   version "6.5.16"
   resolved "https://registry.yarnpkg.com/@storybook/docs-tools/-/docs-tools-6.5.16.tgz#1ec5433eeab63a214d37ffc4660cdaec9704ac39"
@@ -2659,14 +2646,14 @@
     lodash "^4.17.21"
     regenerator-runtime "^0.13.7"
 
-"@storybook/instrumenter@6.5.15", "@storybook/instrumenter@^6.4.0":
-  version "6.5.15"
-  resolved "https://registry.yarnpkg.com/@storybook/instrumenter/-/instrumenter-6.5.15.tgz#4dcb826201fcc09465fd5d6e37bd9147ec1dcfd0"
-  integrity sha512-93WyH0s63RCv496eHjQ5dWFXoExXg9dlNMe7i4/FVVbWeDdb1pPVIHsLn28WxOiVQahQEAW2EA7Mao3BiBWg+A==
+"@storybook/instrumenter@6.5.16", "@storybook/instrumenter@^6.4.0":
+  version "6.5.16"
+  resolved "https://registry.yarnpkg.com/@storybook/instrumenter/-/instrumenter-6.5.16.tgz#62acd94e35f1ec403dbc0145b026dfc042ca2f65"
+  integrity sha512-q8/GaBk8PA/cL7m5OW+ec5t63+Zja9YvYSPGXrYtW17koSv7OnNPmk6RvI7tIHHO0mODBYnaHjF4zQfEGoyR5Q==
   dependencies:
-    "@storybook/addons" "6.5.15"
-    "@storybook/client-logger" "6.5.15"
-    "@storybook/core-events" "6.5.15"
+    "@storybook/addons" "6.5.16"
+    "@storybook/client-logger" "6.5.16"
+    "@storybook/core-events" "6.5.16"
     core-js "^3.8.2"
     global "^4.4.0"
 
