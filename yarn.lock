@@ -2011,19 +2011,19 @@
     util-deprecate "^1.0.2"
     uuid-browser "^3.1.0"
 
-"@storybook/addon-actions@^7.0.2":
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-actions/-/addon-actions-7.0.2.tgz#720d764ec77e395a92be50f0cd0a1baa75a58518"
-  integrity sha512-rcj39u9MrmzsrDWYt1zsoVxrogZ1Amrv9xkEofEY/QKUr2R3xpHhTALveY9BKIlG1GoE8zLlLoP2k4nz3sNNwQ==
+"@storybook/addon-actions@^7.0.3":
+  version "7.0.3"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-actions/-/addon-actions-7.0.3.tgz#7e3b411390d86d06a71b95a7bffcc2c2a336f1b2"
+  integrity sha512-u0dNilYi5+nt2LyfVgNgIweUKVCuz7dNjRpBMdcxQnHyvq5s5KMSkRXqF9em4Gf5X4Z7YGgrLFOqFDt4Gv/+Jg==
   dependencies:
-    "@storybook/client-logger" "7.0.2"
-    "@storybook/components" "7.0.2"
-    "@storybook/core-events" "7.0.2"
+    "@storybook/client-logger" "7.0.3"
+    "@storybook/components" "7.0.3"
+    "@storybook/core-events" "7.0.3"
     "@storybook/global" "^5.0.0"
-    "@storybook/manager-api" "7.0.2"
-    "@storybook/preview-api" "7.0.2"
-    "@storybook/theming" "7.0.2"
-    "@storybook/types" "7.0.2"
+    "@storybook/manager-api" "7.0.3"
+    "@storybook/preview-api" "7.0.3"
+    "@storybook/theming" "7.0.3"
+    "@storybook/types" "7.0.3"
     dequal "^2.0.2"
     lodash "^4.17.21"
     polished "^4.2.2"
@@ -2528,16 +2528,16 @@
     regenerator-runtime "^0.13.7"
     util-deprecate "^1.0.2"
 
-"@storybook/components@7.0.2":
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/@storybook/components/-/components-7.0.2.tgz#3cbceb6e1525bddd855896d3268c2a1fce784535"
-  integrity sha512-Ee9pY6WlpricPUdYiyR0Ov8zgHkUt541yl1CZ6Ytaom2TA12cAnRjKewbLAgVPPhIE1LsMRhOPFYql0JMtnN4Q==
+"@storybook/components@7.0.3":
+  version "7.0.3"
+  resolved "https://registry.yarnpkg.com/@storybook/components/-/components-7.0.3.tgz#87fdf2e67d16a9de4c3e5e5f8bf69ab5d4109202"
+  integrity sha512-4Iiguje+Vz5QHreeSKD1rYEWi2AaycC3MLJMiu35GijFZrOvpA17ehka1RNhRDAKQ02OjG655nttp0XLf7Tu7Q==
   dependencies:
-    "@storybook/client-logger" "7.0.2"
+    "@storybook/client-logger" "7.0.3"
     "@storybook/csf" "^0.1.0"
     "@storybook/global" "^5.0.0"
-    "@storybook/theming" "7.0.2"
-    "@storybook/types" "7.0.2"
+    "@storybook/theming" "7.0.3"
+    "@storybook/types" "7.0.3"
     memoizerific "^1.11.3"
     use-resize-observer "^9.1.0"
     util-deprecate "^1.0.2"
